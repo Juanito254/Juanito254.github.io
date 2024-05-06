@@ -1,4 +1,5 @@
-@import " {{ /* Reset styles */
+@import " {{ site.theme }} ;
+  /* Reset styles */
 * {
   margin: 0;
   padding: 0;
@@ -81,4 +82,4 @@ footer {
 footer p {
   font-size: 0.8em;
 }
-}} ;
+
