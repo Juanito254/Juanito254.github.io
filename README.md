@@ -20,7 +20,7 @@
   
   <section class="hero">
     <div class="hero-content">
-      <h1>Your Name</h1>
+      <h1>SHADRACK</h1>
       <p>Graphic Designer Extraordinaire</p>
     </div>
   </section>
@@ -47,7 +47,7 @@
   <section id="contact">
     <div class="container">
       <h2>Contact Me</h2>
-      <p>Interested in working together? Reach out to me at: example@email.com</p>
+      <p>Interested in working together? Reach out to me at: juanitobeez254@gmail.com</p>
     </div>
   </section>
 
