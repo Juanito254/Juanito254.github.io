@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Graphic Designer Portfolio</title>
+  <title>SHADRACK NDUNG'U </title>
   <link rel="stylesheet" href="styles.css">
   <!-- Add any additional CSS or libraries here -->
 </head>
@@ -13,7 +13,7 @@
       <ul>
         <li><a href="#about">About</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#contact">+254691531</a></li>
       </ul>
     </nav>
   </header>
@@ -53,7 +53,7 @@
 
   <footer>
     <div class="container">
-      <p>&copy; 2024 Your Name | Graphic Designer Portfolio</p>
+      <p>&copy; 2024 SHADRACK | Graphic Designer Portfolio</p>
     </div>
   </footer>
 </body>
