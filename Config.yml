@@ -1,4 +1,4 @@
-/* Reset styles */
+hi/* Reset styles */
 * {
   margin: 0;
   padding: 0;
@@ -82,4 +82,4 @@ footer p {
   font-size: 0.8em;
 }
 
-Jekyll_theme_minimal
+theme: jekyll-theme-minimal
